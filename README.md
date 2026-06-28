@@ -45,3 +45,6 @@ Using Statcast data, I analyze:
 ---
 
 *This project is part of my journey into baseball analytics and player development.*
+## First Visualization
+
+![Whiff Rate vs Usage](figures/whiff_vs_usage.png)
